@@ -1,0 +1,31 @@
+    #regional{
+    cursor: pointer;
+    border-radius: 0.5rem;
+    padding: 0.5rem  1rem;
+    border: 1px solid black;
+   margin: 1rem 0.3rem;
+    }
+
+#old {
+    cursor: pointer;
+    border-radius: 0.5rem;
+    padding: 0.5rem  1rem;
+    border: 1px solid black;
+   margin: 1rem 0.3rem;
+     }
+#romantic  {
+    cursor: pointer;
+    border-radius: 0.5rem;
+    padding: 0.5rem  1rem;
+    border: 1px solid black;
+   margin: 1rem 0.3rem;
+     }
+
+#motivational
+    {
+        cursor: pointer;
+        border-radius: 0.5rem;
+        padding: 0.5rem  1rem;
+        border: 1px solid black;
+       margin: 1rem 0.3rem;
+    }
